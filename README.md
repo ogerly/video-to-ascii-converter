@@ -6,6 +6,11 @@ Convert videos to ASCII art with a Streamlit web application.
 
 This project provides a Streamlit web application to convert video files into ASCII art videos. Users can upload a video file, adjust settings like the number of columns, scale, color, and frame rate, and then convert the video. The resulting ASCII video can be previewed and downloaded.
 
+![Bildschirmfoto vom 2024-07-14 12-18-07](https://github.com/user-attachments/assets/15ee7943-2ce8-4d53-9586-f044050e0d57)
+![Bildschirmfoto vom 2024-07-14 12-18-16](https://github.com/user-attachments/assets/3043ca4d-813a-45bc-8aab-6b2a327fb658)
+
+
+
 ## Features
 
 - Upload video files (MP4, MOV, AVI)
